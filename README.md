@@ -66,7 +66,12 @@ plt.title("Customer segments")
 ```
 
 ## Output:
-![K Means Clustering for Customer Segmentation](sam.png)
+#### data head
+![K Means Clustering for Customer Segmentation](https://github.com/srivarshan123/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/blob/main/data%20head.png)
+#### Elbow method
+![K Means Clustering for Customer Segmentation](https://github.com/srivarshan123/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/blob/main/elbow%20method.png)
+#### final output
+![K Means Clustering for Customer Segmentation](https://github.com/srivarshan123/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/blob/main/final%20clusters.png)
 
 
 ## Result:
